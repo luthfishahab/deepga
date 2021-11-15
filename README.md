@@ -1,2 +1,2 @@
-# gabsde
-Genetic Algorithm Backward Stochastic Differential Equation
+# deepga
+Deep-Genetic Algorithm Backward Stochastic Differential Equation
