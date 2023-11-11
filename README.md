@@ -1,1 +1,1 @@
-# deepga
+# Deep-Genetic Algorithm (Deep-GA)
